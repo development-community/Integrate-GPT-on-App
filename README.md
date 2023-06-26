@@ -1,6 +1,6 @@
 <div align="center">
     <h2>Integration of ChatGPT to an Python Application</h2>
-    <p>Source code of <a href="https://www.youtube.com/watch?v=hr97D41UrAA" target="_blank"><u>ChatGPT at your service</u></a> video on <a href="https://www.youtube.com/watch?v=hr97D41UrAA&list=PLpBtWRenhW_S0YjxqE1fhbtTuK8SSZHNW&index=2" target="_blank"><u>ImagineAndMake</u></a> serie</p>
+    <p>Source code of <a href="https://www.youtube.com/watch?v=hr97D41UrAA" target="_blank"><u>ChatGPT at your service</u></a> video on <a href="https://www.youtube.com/playlist?list=PLpBtWRenhW_S0YjxqE1fhbtTuK8SSZHNW" target="_blank"><u>ImagineAndMake</u></a> serie</p>
 </div>
 
 ## Summary
