@@ -34,7 +34,7 @@ cd ./IntegrateGPTonApp
 pip install -r requirements.txt
 ```
 
-You must define your main language for the Speech To Text system on line 63 of the `index.py` file in the format (for example: fr-FR or en-US)
+You must define your main language for the Speech To Text system on line 63 of the `index.py` file in the format (for example: fr-FR or en-US) because SpeechRecognition didn't manage multi-language in same time.
 ```
 input = recognizer.recognize_google(voice_input, language='fr-FR')
 ```
