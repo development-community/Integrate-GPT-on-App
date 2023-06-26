@@ -1,26 +1,16 @@
 <div align="center">
-    <h1>Integration of ChatGPT to an Python Application</h1>
+    <h2>Integration of ChatGPT to an Python Application</h2>
     <p>Source code of <a href="https://www.youtube.com/watch?v=hr97D41UrAA" target="_blank"><u>ChatGPT at your service</u></a> on <a href="https://www.youtube.com/watch?v=hr97D41UrAA&list=PLpBtWRenhW_S0YjxqE1fhbtTuK8SSZHNW&index=2" target="_blank"><u>ImagineAndMake</u></a> serie</p>
-    <div style="display: flex;align-items: center;justify-content: center;gap: 30px">
-        <a href="https://discord.com/invite/dev-community" target="_blank">
-            <img src="./documentation/discord_logo.png" alt="Official Discord logo" width="30"/>
-        </a>
-        <a href="https://www.youtube.com/channel/UCmH1td7f73IEyYNNg5XDT9g" target="_blank">
-            <img src="./documentation/youtube_logo.png" alt="Official Youtube logo" width="30"/>
-        </a>
-    </div>
 </div>
 
 ## Summary
 
 The aim of this source code is to bring __ChatGPT's response capability right to your fingertips__. We integrate the OpenAI API into a Python application, and then add functions that might be considered indispensable in a developer's life. We've also added Speech To Text to initiate the ability to speak and get an immediate response.
-
+You can find us on [Discord](http://discord.com/invite/dev-community) and on [Youtube](https://www.youtube.com/channel/UCmH1td7f73IEyYNNg5XDT9g).
 
 ## Demonstration
 
-<video width="1020" height="540" controls autoplay muted>
-    <source src="./documentation/demonstration.mp4" type="video/mp4">
-</video>
+https://github.com/development-community/Integrate-GPT-on-App/assets/60803887/aed8acbe-b9f5-4076-8f3e-108f25465c6d
 
 ## Requirements
 - Python 3.10+ (Maybe you can use an older version of Python)
@@ -29,7 +19,7 @@ The aim of this source code is to bring __ChatGPT's response capability right to
 
 Download this source code
 ```
-git clone [URL]
+git clone https://github.com/development-community/Integrate-GPT-on-App.git
 ```
 
 Create a python environment and activate it
@@ -40,7 +30,7 @@ source environment/bin/activate
 
 Install the require packages
 ```
-cd IntegrateGPTonApp
+cd ./IntegrateGPTonApp
 pip install -r requirements.txt
 ```
 
