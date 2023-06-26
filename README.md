@@ -10,7 +10,9 @@ You can find us on [Discord](http://discord.com/invite/dev-community) and on [Yo
 
 ## Demonstration
 
-https://github.com/development-community/Integrate-GPT-on-App/assets/60803887/aed8acbe-b9f5-4076-8f3e-108f25465c6d
+https://github.com/development-community/Integrate-GPT-on-App/assets/60803887/95efd13d-f9ee-48ae-a5ab-4e2b91b7468f
+
+If the link doesn't work, you can watch on [Youtube](https://youtu.be/LlF1ojpID_c)
 
 ## Requirements
 - Python 3.10+ (Maybe you can use an older version of Python)
